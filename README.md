@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-
+#ListaPackage - Script Oracle
 
 ## Como executar o script no Oracle:
 
