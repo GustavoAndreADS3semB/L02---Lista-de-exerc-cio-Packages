@@ -1,4 +1,5 @@
-# ListaPackage - Script Oracle
+<<<<<<< HEAD
+
 
 ## Como executar o script no Oracle:
 
@@ -39,3 +40,6 @@
 2. Execute o script SQL conforme descrito acima.
 3. Faça os testes necessários para garantir que as funcionalidades estão operando conforme esperado.
 
+=======
+# L02---Lista-de-exercio-Packages
+>>>>>>> 480d6284b590cae33bad7d68b8ff9c2de1e048ad
